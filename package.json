@@ -1,0 +1,8 @@
+{
+  "name": "nov8rs-quote-builder",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "stripe": "^14.25.0"
+  }
+}
